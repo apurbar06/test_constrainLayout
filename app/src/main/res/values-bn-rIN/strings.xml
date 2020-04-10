@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test_constrainLayout</string>
+    <string name="button_description">button roll korun</string>
+    <string name="button_text">calun</string>
+    <string name="dice_logo_description">Dice logo</string>
+    <string name="lower_dice_description">nice obosthito dice</string>
+    <string name="upper_dice_description">upore obosthito dice</string>
+</resources>

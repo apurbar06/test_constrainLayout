@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test_constrainLayout</string>
+    <string name="button_text">roll</string>
+    <string name="button_description">Roll the button</string>
+    <string name="dice_logo_description">Dice logo</string>
+    <string name="upper_dice_description">Upper dice</string>
+    <string name="lower_dice_description">Lower dice</string>
+</resources>
